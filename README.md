@@ -8,4 +8,5 @@
 gilsrios/gilsrios is a ✨ generic ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Why is this site so not user friendly, I hate this.
+Why is this site so not user friendly, I hate this. 
+Well, maybe I'm just dumb, I guess.
